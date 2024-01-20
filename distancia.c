@@ -30,4 +30,6 @@ distancia = calculaDistancia(x1,y1,x2,y2);
 //mostra o resultado
 printf("Distancia: %f", distancia);
 
+// final
+
 }
